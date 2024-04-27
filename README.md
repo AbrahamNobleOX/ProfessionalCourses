@@ -1,5 +1,5 @@
 ```
-# C# .NET MVC Setup
+# C#, .NET, MVC & Entity Framework using N-Tier Architechure - The Setup
 
 Configuration Steps
 
